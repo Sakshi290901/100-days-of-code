@@ -17,4 +17,17 @@ Feels good how my note looks like🗒️!
 ✴️Made a Chessboard using HTML and CSS.
       It was great fun🙃! Took help from the tutorials by @codeaddictmr 
 Excited to try more projects in the future!!
+### Day 3:June 13th 2020
+ ####
  
+ **Today's Progress**:DAY 3:Applied Accessibility #100DaysOfCode 
+Continued learning Applied Accessibility from 
+@freeCodeCamp
+ 
+Today's progress:
+-Making screen reader navigation easier with: 
+=Header landmark
+=Nav landmark
+=Footer landmark
+-Improving the accessibility of audio content.
+#HTML #CSS
