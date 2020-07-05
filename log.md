@@ -190,6 +190,10 @@ Started up very late today...learnt more about the perspective property in CSS 3
 **Today's Progress**:Practical #100DaysOfCode
 Made this cute animation of a boy with his drone using HTML and CSS. Was fun building it.Came across some errors yesterday but finally completed it! Love the way it looks
 https://twitter.com/i/status/1279461997193523200
+### Day 245:July 5th 2020
+####
 
-
+**Today's Progress**:Practical! #100DaysOfCode 
+Made a Doraemon Animation today using HTML and CSS. This Cartoon will never get old I have been watching this since I was 10 and I do watch this sometimes even though I am 18. It reminds me of my childhood memories
+https://twitter.com/i/status/1279828291231248386
 
