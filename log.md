@@ -287,7 +287,7 @@ There are still some errors with the utility classes still l Iove the way it loo
 Took help from 
 @StackOverflow for the countdown animation
 https://loving-williams-171fbe.netlify.app
-### Day 38:July 18th 2020
+### Day 39:July 19th 2020
 ####
 
 **Today's Progress**:Started up very late today.. completed with the web design course on Udemy by 
