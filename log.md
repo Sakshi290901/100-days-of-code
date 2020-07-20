@@ -196,4 +196,101 @@ https://twitter.com/i/status/1279461997193523200
 **Today's Progress**:Practical! #100DaysOfCode 
 Made a Doraemon Animation today using HTML and CSS. This Cartoon will never get old I have been watching this since I was 10 and I do watch this sometimes even though I am 18. It reminds me of my childhood memories
 https://codepen.io/sakshi290901/pen/rNxJJJW 
+### Day 26:July 6th 2020
+####
+
+**Today's Progress**:Created these hover effect Menu Items using HTML and CSS. Learned more about WebKit-text-stroke property!
+Started making a responsive Portfolio Website and completed  with its HTML markup!
+https://codepen.io/sakshi290901/pen/zYryZyK
+### Day 27:July 7th 2020
+####
+
+**Today's Progress**:Portfolio Website
+Felt very low today after messing up the code for the Portfolio Website!Made some errors in the CSS markup,
+need to figure it out by tomorrow..
+### Day 28:July 8th 2020
+####
+
+**Today's Progress**:Portfolio Website
+Finally completed the Portfolio Website!Was fun building it! Learned more on clip-path property. Somehow the icons did not show up still I love the way it looks!
+https://zen-kepler-f39d0a.netlify.app
+### Day 29:July 9th 2020
+####
+
+**Today's Progress**:Portfolio Website!
+Started with a Yellow Portfolio Website because Yellow is one of my favorites!Halfway done with the website! Will be completing it by tomorrow.Love the way it looks so far!
+### Day 30:July 10th 2020
+####
+
+**Today's Progress**:Portfolio Website!
+Started up very late today, so could not do much!
+Added an "our services" section to the portfolio and followed up with the suggestions I received yesterday!
+### Day 31:July 11th 2020
+####
+
+**Today's Progress**:Portfolio Website!
+Completed with the Yellow Portfolio Website!Was an amazing experience for me!
+Love the way it looks
+http://vibrant-dijkstra-b40f80.netlify.app
+### Day 32:July 12th 2020
+####
+
+**Today's Progress**:Learning
+Revised my notes today and started making a Product Landing Page
+Completed with the Html markup!
+### Day 33:July 13th 2020
+####
+
+**Today's Progress**:Practical!
+Made a Glowing Text Animation today using HTML and CSS.
+Continued with the product landing page...looking forward to implement this text animation on the Landing Page
+https://codepen.io/sakshi290901/pen/BajvROy
+### Day 34:July 14th 2020
+####
+
+**Today's Progress**:Practical
+Started with designing the Product Landing Page using HTML and CSS!Added the glowing text animation to it!
+Came across some errors in the navbar,will be fixing it by tomorrow! Do comment your suggestions! 
+https://twitter.com/i/status/1283091737943007232
+### Day 35:July 15th 2020
+####
+
+**Today's Progress**:Learning
+Learned basics of bootstrap4 from the course by 
+@yu_angela
+ on Udemy.
+Major topics covered:
+->Bootstrap Navigation Bar
+->Bootstrap Grid Layout System
+-> Bootstrap containers
+->Bootstrap buttons
+### Day 36:July 16th 2020
+####
+
+**Today's Progress**:Practical
+Started making a Food Store Page using HTML and CSS!
+Was fun building it! Love the way it looks
+### Day 37:July 17th 2020
+####
+
+**Today's Progress**:Learning
+Completed with the Bootstrap4 course on Udemy by 
+@yu_angela
+It was a amazing experience!Continued with the food store page and completed with its HTML markup.
+Will be completing the website by tomorrow
+### Day 38:July 18th 2020
+####
+
+**Today's Progress**:Practical
+Completed with Food Store Page using #HTML #CSS  and #Bootstrap
+There are still some errors with the utility classes still l Iove the way it looks!
+Took help from 
+@StackOverflow for the countdown animation
+https://loving-williams-171fbe.netlify.app
+### Day 38:July 18th 2020
+####
+
+**Today's Progress**:Started up very late today.. completed with the web design course on Udemy by 
+@yu_angela
+
 
