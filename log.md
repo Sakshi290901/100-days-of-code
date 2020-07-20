@@ -83,7 +83,7 @@ Made two different loading animations using HTML5 and CSS3 :
 ->Water Loading Animation
 ->Glowing Gradient Loading Animation
 I had great fun building them and even learned a lot new!
-https://twitter.com/i/status/1274022302322053120
+https://codepen.io/sakshi290901/pen/jOWXBzR 
 https://twitter.com/i/status/1274023561955405824
  ### Day 10:June 20th 2020
 ####
@@ -102,34 +102,34 @@ Though my code did not work perfectly well but I learned a lot of new ways from 
 @traversymedia
 .
 He is the best tutor for all beginners like me.
-https://twitter.com/i/status/1274740193388400642
+https://codepen.io/sakshi290901/pen/QWyOBbM 
 ### Day 12:June 22th 2020
 ####
 
 **Today's Progress**: Practical!#100DaysOfCode
 Made a CSS Animation using #HTML and #CSS.
 Started learning animations a while ago and now I'm in love with it!
-https://twitter.com/i/status/1275111228285714432
+https://codepen.io/sakshi290901/pen/zYryZyK 
 ### Day 13:June 23th 2020
 ####
 
 **Today's Progress**: Practical #100DaysOfCode 
 Today I made a Toaster Animation using CSS3 animations and Html5. I even tried using different shades and shine to the toaster. I love the way it looks.
-https://twitter.com/i/status/1275462489459748869
+https://codepen.io/sakshi290901/pen/wvMRJZO
 ### Day 14:June 24th 2020
 ####
 
 **Today's Progress**:Practical #100DaysOfCode 
 Made an Interactive T.V using HTML5 and CSS3 animations.
 Tried using different tint shades to make it colorful! Totally satisfied with its look
-https://twitter.com/i/status/1275811956272664582
+https://codepen.io/sakshi290901/pen/xxZmdKr
 ### Day 15:June 25th 2020
 ####
 
 **Today's Progress**:Practical #100DaysOfCode 
 I started up late today so could not do much on animations.
 Made a Ying Yang Animation using HTML5 and CSS3 animation
-https://twitter.com/i/status/1276198751296606209
+https://codepen.io/sakshi290901/pen/dyGZKxB
 ### Day 16:June 26th 2020
 ####
 
@@ -137,21 +137,21 @@ https://twitter.com/i/status/1276198751296606209
 Made a Car Animation using HTML5 and CSS3.
 It was fun building it. Love the way it looks
 Do comment your ideas if any, will surely look up to implement it
-https://twitter.com/i/status/1276569738559098880
+https://codepen.io/sakshi290901/pen/dyGzLLQ 
 ### Day 17:June 27th 2020
 ####
 
 **Today's Progress**:Practical #100DaysOfCode
 Made a Camera AnimationCamera using Html and CSS. 
 It was fun building it.Tried different contrast to make it colorful. Will try the flash effect in it tomorrow
-https://twitter.com/i/status/1276942574847094784
+https://codepen.io/sakshi290901/pen/mdVMgZZ
 ### Day 18:June 28th 2020
 ####
 
 **Today's Progress**:Practical #100DaysOfCode 
 Made an Icecream Animation using CSS and HTML.
 Was fun building it. Learned more about radial-gradient and border-radius properties from tutorials
-https://twitter.com/i/status/1277307075568128002
+https://codepen.io/sakshi290901/pen/RwrLjoo
 ### Day 19:June 29th 2020
 ####
 
@@ -164,13 +164,13 @@ Learned more about building complex shapes using CSS and HTML.
 **Today's Progress**:Practical #100DaysOfCode 
 Made a Minion Animation today using CSS and HTML.
 Somehow my transform-origin property did not work properly but tried fixing it,Was fun building it!
-https://twitter.com/i/status/1278001133869428737
+https://codepen.io/sakshi290901/pen/qBbVKMQ 
 ### Day 21:July 1st 2020
 ####
 
 **Today's Progress**:Practical and Learning #100DaysOfCode 
 Started up late today...Made a simple Face Button using CSS and HTML. Started learning about building 3D objects using CSS3 from the YouTube tutorials
-https://twitter.com/i/status/1278376440115810305
+ https://codepen.io/sakshi290901/pen/xxZpEag 
 ### Day 22:July 2nd 2020
 ####
 
@@ -178,7 +178,7 @@ https://twitter.com/i/status/1278376440115810305
 Made a Lamp using CSS and HTML. Was fun building it.
 Used checkbox to make the button interactive
 Learned about Isometric Design in CSS 3D from the YouTube tutorials!
-https://twitter.com/i/status/1278701690913296384
+https://codepen.io/sakshi290901/pen/JjGMRvE 
 ### Day 23:July 3rd 2020
 ####
 
@@ -190,10 +190,10 @@ Started up very late today...learnt more about the perspective property in CSS 3
 **Today's Progress**:Practical #100DaysOfCode
 Made this cute animation of a boy with his drone using HTML and CSS. Was fun building it.Came across some errors yesterday but finally completed it! Love the way it looks
 https://twitter.com/i/status/1279461997193523200
-### Day 245:July 5th 2020
+### Day 25:July 5th 2020
 ####
 
 **Today's Progress**:Practical! #100DaysOfCode 
 Made a Doraemon Animation today using HTML and CSS. This Cartoon will never get old I have been watching this since I was 10 and I do watch this sometimes even though I am 18. It reminds me of my childhood memories
-https://twitter.com/i/status/1279828291231248386
+https://codepen.io/sakshi290901/pen/rNxJJJW 
 
