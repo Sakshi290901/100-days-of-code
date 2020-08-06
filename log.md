@@ -293,4 +293,156 @@ https://loving-williams-171fbe.netlify.app
 **Today's Progress**:Started up very late today.. completed with the web design course on Udemy by 
 @yu_angela
 
+### Day 40:July 20th 2020
+####
 
+**Today's Progress**:Revised my notes and completed the Responsive Web Design course from freeCodeCamp
+ Started with the e-commerce website and completed with its HTML markup
+ 
+### Day 41:July 21st 2020
+####
+
+**Today's Progress**:Started with stylizing the e-commerce website using CSS and Bootstrap
+https://twitter.com/i/status/1285603138637041665
+
+### Day 42:July 22nd 2020
+####
+
+**Today's Progress**:Took a break today, made a Google Logo Animation using HTML and CSS.Was fun building it! Will start with Javascript from tomorrow :)
+link to source code:https://codepen.io/sakshi290901/pen/xxZMYgd?editors=1100
+
+### Day 43:July 23rd 2020
+####
+
+**Today's Progress**:Made a Nintendo Switch Animation using HTML and CSS
+Started with the basic Javascript from freeCodeCamp
+Link to source code:https://codepen.io/sakshi290901/pen/eYJXNdN
+
+### Day 44:July 24th 2020
+####
+
+**Today's Progress**:Made an Instagram Logo animation using HTML  and CSS
+Love the gradient shade! Learned more on Basic Javascript from freeCodeCamp
+Link to source code:https://codepen.io/sakshi290901/pen/jOWJpwM
+
+### Day 45:July 25th 2020
+####
+
+**Today's Progress**:Learned more on Basic JavaScript from freeCodeCamp
+Topics covered today:
+->String Immutability
+->Bracket Notations
+->Arrays
+->Nesting Arrays
+->Modification and accessing arrays with Indexes
+->Manipulation of arrays
+
+### Day 46:July 26th 2020
+####
+
+**Today's Progress**:Halfway done with the basic Javascript from freeCodeCamp
+Topics covered today:
+->Reusable Javascript with functions
+->Global scope
+->Local scope
+->Boolean values
+
+### Day 47:July 27th 2020
+####
+
+**Today's Progress**:Made these hover effects image cards inspired by my favorite show F.R.I.E.N.D.S
+Continued with javascript from freeCodeCamp.
+overview:https://awesome-kalam-495eab.netlify.app
+
+### Day 48:July 28th 2020
+####
+
+**Today's Progress**:Continued with basic Javascript from freeCodeCamp
+Topics covered today:
+->Different operators of comparison
+->Else statements
+->If Else statements
+->Chaining If Else statements
+->Golf Code
+
+### Day 49:July 29th 2020
+####
+
+**Today's Progress**:Made these Social Buttons using HTML and CSS.
+Learned more on the box-shadow effects;
+Continued with basic javascript from freeCodeCamp
+link to source code:https://codepen.io/sakshi290901/pen/OJMeyOr
+
+### Day 50:July 30th 2020
+####
+
+**Today's Progress**:Started with the javascript course by yu_angela on Udemy.
+Continued with  Basic JavaScript from freeCodeCamp
+Still feels that it will need much hard work and better understanding to grab up the concepts
+
+### Day 51:July 31st 2020
+####
+
+**Today's Progress**:Made a Parallax Scroller inspired by rainbow colors using CSS and HTML
+Got to know a lot more about parallax effects! Love the way it looks:)
+overview:https://competent-goodall-c586ac.netlify.app
+
+### Day 52:August 1st 2020
+####
+
+**Today's Progress**:Continued with basic Javascript from freeCodeCamp
+Hopefully will be completing with basic Javascript by tomorrow and will start up with ES6
+There are so many concepts to grab up but I truly believe "everything is hard before it gets easy!"
+
+### Day 53:August 2nd 2020
+####
+
+**Today's Progress**:Made a Girl Animation using HTML and CSS. 
+Source code:https://codepen.io/sakshi290901/pen/xxZvoRG
+Completed with basic javascript from freeCodeCamp and started with ES6.
+
+### Day 54:August 3rd 2020
+####
+
+**Today's Progress**:Started up very late today, continued with ES6 from freeCodeCamp and revised my notes. 
+
+### Day 55:August 4th 2020
+####
+
+**Today's Progress**:Made a cute little Soldier using CSS and HTML.
+link to Code:https://codepen.io/sakshi290901/pen/abNoxJp
+
+### Day 56:August 5th 2020
+####
+
+**Today's Progress**:Continued with ES6 from freeCodeCamp
+Topics covered today:
+->Using Destructuring assignment 
+->Getters and Setters
+->Rest and Default parameters 
+->Spread Operator
+
+### Day 57:August 6th 2020
+####
+
+**Today's Progress**:
+
+### Day 58:August 7th 2020
+####
+
+**Today's Progress**:
+
+### Day 59:August 8th 2020
+####
+
+**Today's Progress**:
+
+### Day 60:August 9th 2020
+####
+
+**Today's Progress**:
+
+### Day 61:August 10th 2020
+####
+
+**Today's Progress**:
